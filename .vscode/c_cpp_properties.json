@@ -1,0 +1,48 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/cris/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/cris/catkin_ws/src/butia_speech/include/**",
+        "/home/cris/catkin_ws/src/butia_vision/butia_vision_bridge/include/**",
+        "/home/cris/catkin_ws/src/moveit/moveit_planners/chomp/chomp_motion_planner/include/**",
+        "/home/cris/catkin_ws/src/vision_opencv/cv_bridge/include/**",
+        "/home/cris/catkin_ws/src/darknet_ros/darknet_ros/include/**",
+        "/home/cris/catkin_ws/src/deep_grasp_demo/deep_grasp_task/include/**",
+        "/home/cris/catkin_ws/src/gpd_ros/include/**",
+        "/home/cris/catkin_ws/src/butia_vision/image2kinect/include/**",
+        "/home/cris/catkin_ws/src/vision_opencv/image_geometry/include/**",
+        "/home/cris/catkin_ws/src/butia_vision/image_server/include/**",
+        "/home/cris/catkin_ws/src/LMS1xx/include/**",
+        "/home/cris/catkin_ws/src/moveit_grasps/include/**",
+        "/home/cris/catkin_ws/src/moveit/moveit_planners/chomp/chomp_interface/include/**",
+        "/home/cris/catkin_ws/src/moveit/moveit_ros/benchmarks/include/**",
+        "/home/cris/catkin_ws/src/moveit/moveit_plugins/moveit_ros_control_interface/include/**",
+        "/home/cris/catkin_ws/src/moveit/moveit_ros/move_group/include/**",
+        "/home/cris/catkin_ws/src/moveit/moveit_ros/occupancy_map_monitor/include/**",
+        "/home/cris/catkin_ws/src/moveit/moveit_ros/robot_interaction/include/**",
+        "/home/cris/catkin_ws/src/moveit/moveit_ros/moveit_servo/include/**",
+        "/home/cris/catkin_ws/src/moveit/moveit_setup_assistant/include/**",
+        "/home/cris/catkin_ws/src/moveit/moveit_plugins/moveit_simple_controller_manager/include/**",
+        "/home/cris/catkin_ws/src/moveit_task_constructor/core/include/**",
+        "/home/cris/catkin_ws/src/moveit_task_constructor/demo/include/**",
+        "/home/cris/catkin_ws/src/deep_grasp_demo/moveit_task_constructor_dexnet/include/**",
+        "/home/cris/catkin_ws/src/deep_grasp_demo/moveit_task_constructor_gpd/include/**",
+        "/home/cris/catkin_ws/src/butia_vision/object_recognition/include/**",
+        "/home/cris/catkin_ws/src/moveit/moveit_planners/pilz_industrial_motion_planner/include/**",
+        "/home/cris/catkin_ws/src/moveit/moveit_planners/pilz_industrial_motion_planner_testutils/include/**",
+        "/home/cris/catkin_ws/src/moveit_task_constructor/rviz_marker_tools/include/**",
+        "/home/cris/catkin_ws/src/moveit/moveit_planners/sbpl/core/sbpl_interface/include/**",
+        "/home/cris/catkin_ws/src/butia_vision/segmentation/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
